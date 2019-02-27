@@ -1,0 +1,129 @@
+[
+"Car" : {
+     "make": "Audi"
+	  "model": "A7"
+     "vin": "09AGHY64352JITEG98K"
+     "metadata" : {
+         "Color" : "Black"
+         "Notes" : "Scratches on the front side of the car"
+         }
+     "perdayrent" : {
+        "Price" : 140
+         "Discount" : 15
+         }
+     "metrics" : {
+         "yoymaintenancecost" : 2190.76
+         "depreciation": 2256.43
+         "rentalcount" : {
+             "lastweek" : 4
+             "yeartodate" : 221
+             }
+         }
+    },
+    "Car" : {
+     "make": "Tesla"
+	  "model": "A8"
+     "vin": "08AGHY64352JITEG98K"
+     "metadata" : {
+         "Color" : "Blue"
+         "Notes" : "no Scratches"
+         }
+     "perdayrent" : {
+        "Price" : 160
+         "Discount" : 15
+         }
+     "metrics" : {
+         "yoymaintenancecost" : 2180.76
+         "depreciation": 2286.43
+         "rentalcount" : {
+             "lastweek" : 4
+             "yeartodate" : 221
+             }
+         }
+    },
+    "Car" : {
+     "make": "Tesla"
+	  "model": "A9"
+     "vin": "07AGHY64352JITEG98K"
+     "metadata" : {
+         "Color" : "Blue"
+         "Notes" : "no Scratches"
+         }
+     "perdayrent" : {
+        "Price" : 180
+         "Discount" : 20
+         }
+     "metrics" : {
+         "yoymaintenancecost" : 2170.76
+         "depreciation": 2276.43
+         "rentalcount" : {
+             "lastweek" : 4
+             "yeartodate" : 221
+             }
+         }
+    },
+    "Car" : {
+     "make": "Ford"
+	  "model": "A8"
+     "vin": "02AGHY64352JITEG98K"
+     "metadata" : {
+         "Color" : "Red"
+         "Notes" : "new ford car"
+         }
+     "perdayrent" : {
+        "Price" : 120
+         "Discount" : 20
+         }
+     "metrics" : {
+         "yoymaintenancecost" : 2120.76
+         "depreciation": 2226.43
+         "rentalcount" : {
+             "lastweek" : 4
+             "yeartodate" : 221
+             }
+         }
+    },
+    "Car" : {
+     "make": "Accord"
+	  "model": "A4"
+     "vin": "04AGHY64352JITEG98K"
+     "metadata" : {
+         "Color" : "Silver"
+         "Notes" : "old car"
+         }
+     "perdayrent" : {
+        "Price" : 30
+         "Discount" : 15
+         }
+     "metrics" : {
+         "yoymaintenancecost" : 2120.76
+         "depreciation": 1286.43
+         "rentalcount" : {
+             "lastweek" : 4
+             "yeartodate" : 221
+             }
+         }
+    },
+    "Car" : {
+     "make": "Tesla"
+	  "model": "A5"
+     "vin": "05AGHY64352JITEG98K"
+     "metadata" : {
+         "Color" : "Pink"
+         "Notes" : "brand new, but cigarrett smell."
+         }
+     "perdayrent" : {
+        "Price" : 200
+         "Discount" : 15
+         }
+     "metrics" : {
+         "yoymaintenancecost" : 2180.76
+         "depreciation": 100
+         "rentalcount" : {
+             "lastweek" : 4
+             "yeartodate" : 221
+             }
+         }
+    }
+    ]
+
